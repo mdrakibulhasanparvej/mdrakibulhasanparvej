@@ -17,8 +17,8 @@ Currently focused on building full-stack web applications using the MERN stack.
 </p>
 
 ### 🔍 Current Activities:
-- 🚀 Exploring **Node.js**, **Next.js** , **Express.js** and **MongoDB**
-- 🌐 Working on a **Courier Service Management Website**
+- 🚀 Exploring **Node.js**, **Next.js** , **PostgreSQL(Prisma)** , **Docker** and **Ngnix**
+- 🌐 Working on a **EBS Motor Tech service and e-commerce Website**
 - 📚 Preparing for internships and open-source contributions
 
 ---
